@@ -16,8 +16,8 @@ The server hosts a simple webpage confirming successful deployment.
 **Platform:** Google Cloud (Compute Engine)  
 **Deployed:** 17/10/2025
 
-![HNG Stage 0 Screenshot](images/Screenshot (1080).png)
-![HNG Stage 0 Screenshot](images/Screenshot (1079).png)
+![HNG Stage 0 Screenshot](images/image1.png)
+![HNG Stage 1 Screenshot](images/img3.png)
 
 ---
 
